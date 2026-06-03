@@ -1,5 +1,4 @@
-# app.py — MedLens Phase 5 (Stable Summary Version)
-# ✨ "Now both Funshine and Standard are equally smart."
+
 
 import os
 import io
@@ -83,7 +82,7 @@ body { background: linear-gradient(135deg, #ffd3ec, #ffeab6, #d1f7ff); color: #1
 </style>
 """
 
-# === APPLY CSS BASED ON MODE ===
+# === APPLYING CSS BASED ON MODE ===
 if st.session_state.mode == "Doctor Funshine":
     st.markdown(funshine_css, unsafe_allow_html=True)
 elif st.session_state.theme == "Light Mode":

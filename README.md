@@ -112,7 +112,7 @@ App runs locally on 👉 `http://localhost:8501`
 
 ## 🌐 **Deployed Link**
 
-🔗 [Live App] https://medlensbylynk-3v8sfnp9cicf7jthvwafwf.streamlit.app/
+🔗 [Live App] https://medlensbylynk-3v8sfnp9cicf7jthvwafwf.streamlit.app/ (discontinued)
 
 ---
 
@@ -136,7 +136,7 @@ App runs locally on 👉 `http://localhost:8501`
 
 | Name         | Role                     |
 | ------------ | ------------------------ |
-| Kriti [You]  | AI & Backend Developer   |
+| Kriti Jain   | AI & Backend Developer   |
 | Kinjal Srivastava | Frontend & Design   |
 
 ---

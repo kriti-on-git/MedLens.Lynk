@@ -8,6 +8,7 @@ MedLens is an AI-driven health analysis tool that decodes your medical reports i
 Upload your lab report (PDF or image), and MedLens extracts key health metrics like sugar, cholesterol, hemoglobin, etc., visualizes them, and explains their medical meaning — all in plain English.
 
 The goal is to make diagnostic insights understandable to *anyone*, not just doctors. 
+
 Fun Addition: Doctor Funshine (Fun personas reading your reports)
 
 ---
